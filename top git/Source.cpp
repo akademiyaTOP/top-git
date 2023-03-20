@@ -11,7 +11,7 @@ int main()
 	function(a);
 
 	std::cout << a << std::endl;
-	std::cout << "Hallo World\n";
+	std::cout << "Hallo\n";
 
 	function(a);
 
